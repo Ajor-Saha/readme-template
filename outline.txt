@@ -15,5 +15,5 @@
 14. Image
 15. Emoji
 16. Table 
-Add Extra information for further update.
+Add Extra information for further update.Add extra information related to tech.
 Needed further information for read-me file.
